@@ -20,3 +20,4 @@ git commit -m "Add index.html starter template"
 
 # Push changes to the remote GitHub repository
 git push origin main
+- Ran terminal navigation and file operations practice
