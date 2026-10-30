@@ -9,4 +9,3 @@ You can view the live project here: [Live Website Link](https://gracesaigilu.git
 * `script.js` - JavaScript functionality
 * `terminal-log.md` - Log of terminal commands
 * `new-project.sh` - Automation script for creating project structures
-
